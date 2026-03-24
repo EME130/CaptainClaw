@@ -1,0 +1,9 @@
+- [ ] Make new title song inspired from the song "Computer Love" from the album "Unconditional"
+	- [ ] Reach out to the author for permission/collaboration
+	- [ ] Use AI music generation (MusicGen recommended - open source, self-hostable)
+		- Prompt idea: "retro synth-pop instrumental, Kraftwerk-inspired electronic melody, 80s computer love theme, pirate adventure game title screen"
+		- Can provide audio conditioning + text prompt
+		- Alternatives: Udio, Suno, Stable Audio
+	- [ ] Note: NVIDIA/personaplex is NOT suitable - it's a conversational speech AI, not music generation
+	- [ ] Replace proprietary `ClawLauncher/Resources/TITLE.wav` (currently tracked in git)
+	- [ ] Add `ClawLauncher/Resources/TITLE.wav` to `.gitignore` or replace with the new original track
