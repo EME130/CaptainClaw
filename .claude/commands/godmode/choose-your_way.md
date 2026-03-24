@@ -19,7 +19,7 @@ Onboard a contributor by detecting their git identity and letting them define th
    - Show 2-3 example headings in their own style
    - Describe the rules (e.g., "all lowercase", "emoji prefixes", "conventional commits", etc.)
 
-5. Once the contributor confirms their style, save it to `LootChest/<NAME>/Commit Style.md` where `<NAME>` is their git username uppercased. Create the LootChest folder if it doesn't exist.
+5. Once the contributor confirms their style, save it to `LootChest/<NAME>/CommitStyle.md` where `<NAME>` is their git username uppercased. Create the LootChest folder if it doesn't exist. No whitespace in filenames (unix philosophy).
 
    Format:
    ```markdown
